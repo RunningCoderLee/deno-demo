@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "cache-control": "max-age=300",
+    "date": "Thu, 18 Jun 2020 15:50:56 GMT",
+    "via": "1.1 varnish (Varnish/6.0), 1.1 varnish",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-served-by": "cache-lax8650-LAX",
+    "x-content-type-options": "nosniff",
+    "etag": "W/\"db95d451c71bcd6183ce8cd096e6ca594b1e565332e97c717343931acd33a0c4\"",
+    "x-fastly-request-id": "919d78d7b631ea397872696c25a9b46ffa413a00",
+    "cf-request-id": "0369b9591a0000e7f99ba2e200000001",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "__cfduid=dcba01e1efcd3f9a79ad112200bbeb0ad1592495456; expires=Sat, 18-Jul-20 15:50:56 GMT; path=/; domain=.deno.land; HttpOnly; SameSite=Lax; Secure",
+    "vary": "Authorization,Accept-Encoding",
+    "cf-cache-status": "DYNAMIC",
+    "x-deno-warning": "Implicitly using master branch https://deno.land/std/fmt/colors.ts",
+    "content-type": "application/typescript; charset=utf-8",
+    "access-control-allow-origin": "*",
+    "source-age": "0",
+    "x-cache": "MISS, MISS",
+    "cf-ray": "5a562b3b58bae7f9-LAX",
+    "x-github-request-id": "722A:156F:77A3E2:89505A:5EEB8D5F",
+    "x-xss-protection": "1; mode=block",
+    "server": "cloudflare",
+    "x-frame-options": "deny",
+    "x-cache-hits": "0, 0",
+    "x-timer": "S1592495457.565998,VS0,VE166",
+    "expires": "Thu, 18 Jun 2020 15:55:56 GMT"
+  },
+  "url": "https://deno.land/std/fmt/colors.ts"
+}
